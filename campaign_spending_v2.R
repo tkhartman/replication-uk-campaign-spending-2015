@@ -14,7 +14,6 @@ options("scipen" = 100, "digits" = 4)
 
 ## Set the Working Directory
 # setwd("~/Dropbox/_RESEARCH/Pattie_Johnston_2015_UK_Election/Campaign_Spending_Project/Data/")  # For Mac OSX
-# setwd("C:/Users/Fs1tkh/Dropbox/_RESEARCH/Pattie_Johnston_2015_UK_Election/Campaign_Spending_Project/Data/")  # For PC
 
 ##' Load the 2015 campaign spending data
 ## Download (or load if downloaded) from the Electoral Commission website
